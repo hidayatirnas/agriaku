@@ -27,6 +27,8 @@ for idx, row in df_sch_enr.iterrows():
         wos["date"] = start_date.strftime("%Y-%m-%d")
         wos["week"] = week
         wos["semester"] = semester
+        # get weekday number with assumption it starts with 2 as Monday and end at 6 as Friday
+        wos["weekday"] = start_date.weekday() + 1
         week_of_semesters.append(wos)
 
         start_date += timedelta(days=1)
