@@ -16,6 +16,7 @@ df_target.drop(columns=["ID"], inplace=True)
 df_target = df_target.merge(df_wos, left_on=["COURSE_DAYS", "SEMESTER"], right_on=["weekday", "semester"], how="inner")
 df_target = df_target[["STUDENT_ID", "COURSE_ID", "id"]]
 df_target.rename(columns={"STUDENT_ID": "student_id", "COURSE_ID": "course_id", "id": "wos_id"}, inplace=True)
+df_target.index.name = "id"
 
 # add value to attendance target to attend the course
 df_target["target"] = 1
