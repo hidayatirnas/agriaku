@@ -1,417 +1,105 @@
-student_id,week,semester,course_name,target,actual
-1,1,1,Data Mining,1,1.0
-2,1,1,Data Mining,1,1.0
-6,1,1,Data Mining,1,1.0
-1,2,1,Data Mining,1,1.0
-2,2,1,Data Mining,1,1.0
-6,2,1,Data Mining,1,1.0
-1,3,1,Data Mining,1,1.0
-2,3,1,Data Mining,1,1.0
-6,3,1,Data Mining,1,1.0
-1,4,1,Data Mining,1,1.0
-2,4,1,Data Mining,1,1.0
-6,4,1,Data Mining,1,1.0
-1,5,1,Data Mining,1,1.0
-2,5,1,Data Mining,1,1.0
-6,5,1,Data Mining,1,1.0
-1,6,1,Data Mining,1,1.0
-2,6,1,Data Mining,1,1.0
-6,6,1,Data Mining,1,1.0
-1,7,1,Data Mining,1,1.0
-2,7,1,Data Mining,1,1.0
-6,7,1,Data Mining,1,1.0
-1,8,1,Data Mining,1,1.0
-2,8,1,Data Mining,1,1.0
-6,8,1,Data Mining,1,1.0
-1,9,1,Data Mining,1,1.0
-2,9,1,Data Mining,1,1.0
-6,9,1,Data Mining,1,1.0
-1,10,1,Data Mining,1,1.0
-2,10,1,Data Mining,1,1.0
-6,10,1,Data Mining,1,1.0
-1,11,1,Data Mining,1,1.0
-2,11,1,Data Mining,1,1.0
-6,11,1,Data Mining,1,1.0
-1,12,1,Data Mining,1,1.0
-2,12,1,Data Mining,1,1.0
-6,12,1,Data Mining,1,1.0
-1,13,1,Data Mining,1,1.0
-2,13,1,Data Mining,1,1.0
-6,13,1,Data Mining,1,1.0
-1,1,1,Data Mining,1,1.0
-2,1,1,Data Mining,1,1.0
-6,1,1,Data Mining,1,1.0
-1,2,1,Data Mining,1,1.0
-2,2,1,Data Mining,1,1.0
-6,2,1,Data Mining,1,1.0
-1,3,1,Data Mining,1,1.0
-2,3,1,Data Mining,1,1.0
-6,3,1,Data Mining,1,1.0
-1,4,1,Data Mining,1,1.0
-2,4,1,Data Mining,1,1.0
-6,4,1,Data Mining,1,1.0
-1,5,1,Data Mining,1,1.0
-2,5,1,Data Mining,1,1.0
-6,5,1,Data Mining,1,1.0
-1,6,1,Data Mining,1,1.0
-2,6,1,Data Mining,1,1.0
-6,6,1,Data Mining,1,1.0
-1,7,1,Data Mining,1,1.0
-2,7,1,Data Mining,1,1.0
-6,7,1,Data Mining,1,1.0
-1,8,1,Data Mining,1,1.0
-2,8,1,Data Mining,1,1.0
-6,8,1,Data Mining,1,1.0
-1,9,1,Data Mining,1,1.0
-2,9,1,Data Mining,1,1.0
-6,9,1,Data Mining,1,1.0
-1,10,1,Data Mining,1,1.0
-2,10,1,Data Mining,1,1.0
-6,10,1,Data Mining,1,1.0
-1,11,1,Data Mining,1,1.0
-2,11,1,Data Mining,1,1.0
-6,11,1,Data Mining,1,1.0
-1,12,1,Data Mining,1,1.0
-2,12,1,Data Mining,1,1.0
-6,12,1,Data Mining,1,1.0
-1,13,1,Data Mining,1,1.0
-2,13,1,Data Mining,1,1.0
-6,13,1,Data Mining,1,1.0
-10,1,2,Data Mining,1,1.0
-13,1,2,Data Mining,1,0.0
-10,2,2,Data Mining,1,1.0
-13,2,2,Data Mining,1,1.0
-10,3,2,Data Mining,1,1.0
-13,3,2,Data Mining,1,1.0
-10,4,2,Data Mining,1,1.0
-13,4,2,Data Mining,1,1.0
-10,5,2,Data Mining,1,1.0
-13,5,2,Data Mining,1,1.0
-10,6,2,Data Mining,1,1.0
-13,6,2,Data Mining,1,0.0
-10,7,2,Data Mining,1,1.0
-13,7,2,Data Mining,1,1.0
-10,8,2,Data Mining,1,1.0
-13,8,2,Data Mining,1,1.0
-10,9,2,Data Mining,1,1.0
-13,9,2,Data Mining,1,1.0
-10,10,2,Data Mining,1,1.0
-13,10,2,Data Mining,1,1.0
-10,11,2,Data Mining,1,1.0
-13,11,2,Data Mining,1,1.0
-10,12,2,Data Mining,1,1.0
-13,12,2,Data Mining,1,1.0
-10,13,2,Data Mining,1,1.0
-13,13,2,Data Mining,1,1.0
-10,1,2,Data Mining,1,1.0
-13,1,2,Data Mining,1,1.0
-10,2,2,Data Mining,1,1.0
-13,2,2,Data Mining,1,1.0
-10,3,2,Data Mining,1,1.0
-13,3,2,Data Mining,1,1.0
-10,4,2,Data Mining,1,1.0
-13,4,2,Data Mining,1,1.0
-10,5,2,Data Mining,1,1.0
-13,5,2,Data Mining,1,1.0
-10,6,2,Data Mining,1,1.0
-13,6,2,Data Mining,1,1.0
-10,7,2,Data Mining,1,1.0
-13,7,2,Data Mining,1,1.0
-10,8,2,Data Mining,1,1.0
-13,8,2,Data Mining,1,1.0
-10,9,2,Data Mining,1,1.0
-13,9,2,Data Mining,1,1.0
-10,10,2,Data Mining,1,1.0
-13,10,2,Data Mining,1,1.0
-10,11,2,Data Mining,1,1.0
-13,11,2,Data Mining,1,1.0
-10,12,2,Data Mining,1,1.0
-13,12,2,Data Mining,1,1.0
-10,13,2,Data Mining,1,1.0
-13,13,2,Data Mining,1,1.0
-1,1,1,Statistic,1,1.0
-10,1,1,Statistic,1,1.0
-1,2,1,Statistic,1,1.0
-10,2,1,Statistic,1,1.0
-1,3,1,Statistic,1,1.0
-10,3,1,Statistic,1,0.0
-1,4,1,Statistic,1,0.0
-10,4,1,Statistic,1,1.0
-1,5,1,Statistic,1,1.0
-10,5,1,Statistic,1,0.0
-1,6,1,Statistic,1,1.0
-10,6,1,Statistic,1,1.0
-1,7,1,Statistic,1,0.0
-10,7,1,Statistic,1,1.0
-1,8,1,Statistic,1,1.0
-10,8,1,Statistic,1,1.0
-1,9,1,Statistic,1,1.0
-10,9,1,Statistic,1,0.0
-1,10,1,Statistic,1,1.0
-10,10,1,Statistic,1,1.0
-1,11,1,Statistic,1,0.0
-10,11,1,Statistic,1,1.0
-1,12,1,Statistic,1,1.0
-10,12,1,Statistic,1,0.0
-1,13,1,Statistic,1,1.0
-10,13,1,Statistic,1,1.0
-2,1,1,Introduction to Applied Machine Learning,1,1.0
-6,1,1,Introduction to Applied Machine Learning,1,1.0
-2,2,1,Introduction to Applied Machine Learning,1,1.0
-6,2,1,Introduction to Applied Machine Learning,1,1.0
-2,3,1,Introduction to Applied Machine Learning,1,1.0
-6,3,1,Introduction to Applied Machine Learning,1,1.0
-2,4,1,Introduction to Applied Machine Learning,1,0.0
-6,4,1,Introduction to Applied Machine Learning,1,1.0
-2,5,1,Introduction to Applied Machine Learning,1,1.0
-6,5,1,Introduction to Applied Machine Learning,1,1.0
-2,6,1,Introduction to Applied Machine Learning,1,1.0
-6,6,1,Introduction to Applied Machine Learning,1,1.0
-2,7,1,Introduction to Applied Machine Learning,1,0.0
-6,7,1,Introduction to Applied Machine Learning,1,1.0
-2,8,1,Introduction to Applied Machine Learning,1,1.0
-6,8,1,Introduction to Applied Machine Learning,1,1.0
-2,9,1,Introduction to Applied Machine Learning,1,1.0
-6,9,1,Introduction to Applied Machine Learning,1,1.0
-2,10,1,Introduction to Applied Machine Learning,1,1.0
-6,10,1,Introduction to Applied Machine Learning,1,1.0
-2,11,1,Introduction to Applied Machine Learning,1,0.0
-6,11,1,Introduction to Applied Machine Learning,1,1.0
-2,12,1,Introduction to Applied Machine Learning,1,0.0
-6,12,1,Introduction to Applied Machine Learning,1,1.0
-2,13,1,Introduction to Applied Machine Learning,1,0.0
-6,13,1,Introduction to Applied Machine Learning,1,1.0
-2,1,1,Introduction to Applied Machine Learning,1,1.0
-6,1,1,Introduction to Applied Machine Learning,1,1.0
-2,2,1,Introduction to Applied Machine Learning,1,1.0
-6,2,1,Introduction to Applied Machine Learning,1,1.0
-2,3,1,Introduction to Applied Machine Learning,1,1.0
-6,3,1,Introduction to Applied Machine Learning,1,1.0
-2,4,1,Introduction to Applied Machine Learning,1,0.0
-6,4,1,Introduction to Applied Machine Learning,1,1.0
-2,5,1,Introduction to Applied Machine Learning,1,1.0
-6,5,1,Introduction to Applied Machine Learning,1,1.0
-2,6,1,Introduction to Applied Machine Learning,1,0.0
-6,6,1,Introduction to Applied Machine Learning,1,1.0
-2,7,1,Introduction to Applied Machine Learning,1,1.0
-6,7,1,Introduction to Applied Machine Learning,1,1.0
-2,8,1,Introduction to Applied Machine Learning,1,1.0
-6,8,1,Introduction to Applied Machine Learning,1,1.0
-2,9,1,Introduction to Applied Machine Learning,1,1.0
-6,9,1,Introduction to Applied Machine Learning,1,1.0
-2,10,1,Introduction to Applied Machine Learning,1,1.0
-6,10,1,Introduction to Applied Machine Learning,1,1.0
-2,11,1,Introduction to Applied Machine Learning,1,0.0
-6,11,1,Introduction to Applied Machine Learning,1,1.0
-2,12,1,Introduction to Applied Machine Learning,1,1.0
-6,12,1,Introduction to Applied Machine Learning,1,1.0
-2,13,1,Introduction to Applied Machine Learning,1,1.0
-6,13,1,Introduction to Applied Machine Learning,1,1.0
-2,1,1,Introduction to Applied Machine Learning,1,0.0
-6,1,1,Introduction to Applied Machine Learning,1,1.0
-2,2,1,Introduction to Applied Machine Learning,1,1.0
-6,2,1,Introduction to Applied Machine Learning,1,1.0
-2,3,1,Introduction to Applied Machine Learning,1,1.0
-6,3,1,Introduction to Applied Machine Learning,1,1.0
-2,4,1,Introduction to Applied Machine Learning,1,0.0
-6,4,1,Introduction to Applied Machine Learning,1,1.0
-2,5,1,Introduction to Applied Machine Learning,1,1.0
-6,5,1,Introduction to Applied Machine Learning,1,1.0
-2,6,1,Introduction to Applied Machine Learning,1,1.0
-6,6,1,Introduction to Applied Machine Learning,1,1.0
-2,7,1,Introduction to Applied Machine Learning,1,0.0
-6,7,1,Introduction to Applied Machine Learning,1,1.0
-2,8,1,Introduction to Applied Machine Learning,1,1.0
-6,8,1,Introduction to Applied Machine Learning,1,1.0
-2,9,1,Introduction to Applied Machine Learning,1,1.0
-6,9,1,Introduction to Applied Machine Learning,1,1.0
-2,10,1,Introduction to Applied Machine Learning,1,0.0
-6,10,1,Introduction to Applied Machine Learning,1,1.0
-2,11,1,Introduction to Applied Machine Learning,1,1.0
-6,11,1,Introduction to Applied Machine Learning,1,1.0
-2,12,1,Introduction to Applied Machine Learning,1,1.0
-6,12,1,Introduction to Applied Machine Learning,1,1.0
-2,13,1,Introduction to Applied Machine Learning,1,1.0
-6,13,1,Introduction to Applied Machine Learning,1,1.0
-1,1,2,Introduction to Applied Machine Learning,1,1.0
-13,1,2,Introduction to Applied Machine Learning,1,1.0
-1,2,2,Introduction to Applied Machine Learning,1,1.0
-13,2,2,Introduction to Applied Machine Learning,1,1.0
-1,3,2,Introduction to Applied Machine Learning,1,1.0
-13,3,2,Introduction to Applied Machine Learning,1,1.0
-1,4,2,Introduction to Applied Machine Learning,1,1.0
-13,4,2,Introduction to Applied Machine Learning,1,1.0
-1,5,2,Introduction to Applied Machine Learning,1,1.0
-13,5,2,Introduction to Applied Machine Learning,1,1.0
-1,6,2,Introduction to Applied Machine Learning,1,1.0
-13,6,2,Introduction to Applied Machine Learning,1,1.0
-1,7,2,Introduction to Applied Machine Learning,1,1.0
-13,7,2,Introduction to Applied Machine Learning,1,1.0
-1,8,2,Introduction to Applied Machine Learning,1,1.0
-13,8,2,Introduction to Applied Machine Learning,1,1.0
-1,9,2,Introduction to Applied Machine Learning,1,1.0
-13,9,2,Introduction to Applied Machine Learning,1,1.0
-1,10,2,Introduction to Applied Machine Learning,1,1.0
-13,10,2,Introduction to Applied Machine Learning,1,1.0
-1,11,2,Introduction to Applied Machine Learning,1,1.0
-13,11,2,Introduction to Applied Machine Learning,1,1.0
-1,12,2,Introduction to Applied Machine Learning,1,1.0
-13,12,2,Introduction to Applied Machine Learning,1,1.0
-1,13,2,Introduction to Applied Machine Learning,1,1.0
-13,13,2,Introduction to Applied Machine Learning,1,1.0
-1,1,2,Introduction to Applied Machine Learning,1,1.0
-13,1,2,Introduction to Applied Machine Learning,1,1.0
-1,2,2,Introduction to Applied Machine Learning,1,1.0
-13,2,2,Introduction to Applied Machine Learning,1,1.0
-1,3,2,Introduction to Applied Machine Learning,1,1.0
-13,3,2,Introduction to Applied Machine Learning,1,1.0
-1,4,2,Introduction to Applied Machine Learning,1,1.0
-13,4,2,Introduction to Applied Machine Learning,1,1.0
-1,5,2,Introduction to Applied Machine Learning,1,1.0
-13,5,2,Introduction to Applied Machine Learning,1,1.0
-1,6,2,Introduction to Applied Machine Learning,1,1.0
-13,6,2,Introduction to Applied Machine Learning,1,1.0
-1,7,2,Introduction to Applied Machine Learning,1,1.0
-13,7,2,Introduction to Applied Machine Learning,1,1.0
-1,8,2,Introduction to Applied Machine Learning,1,1.0
-13,8,2,Introduction to Applied Machine Learning,1,1.0
-1,9,2,Introduction to Applied Machine Learning,1,1.0
-13,9,2,Introduction to Applied Machine Learning,1,1.0
-1,10,2,Introduction to Applied Machine Learning,1,1.0
-13,10,2,Introduction to Applied Machine Learning,1,1.0
-1,11,2,Introduction to Applied Machine Learning,1,1.0
-13,11,2,Introduction to Applied Machine Learning,1,1.0
-1,12,2,Introduction to Applied Machine Learning,1,1.0
-13,12,2,Introduction to Applied Machine Learning,1,1.0
-1,13,2,Introduction to Applied Machine Learning,1,1.0
-13,13,2,Introduction to Applied Machine Learning,1,1.0
-1,1,2,Introduction to Applied Machine Learning,1,1.0
-13,1,2,Introduction to Applied Machine Learning,1,1.0
-1,2,2,Introduction to Applied Machine Learning,1,1.0
-13,2,2,Introduction to Applied Machine Learning,1,1.0
-1,3,2,Introduction to Applied Machine Learning,1,1.0
-13,3,2,Introduction to Applied Machine Learning,1,1.0
-1,4,2,Introduction to Applied Machine Learning,1,1.0
-13,4,2,Introduction to Applied Machine Learning,1,1.0
-1,5,2,Introduction to Applied Machine Learning,1,1.0
-13,5,2,Introduction to Applied Machine Learning,1,1.0
-1,6,2,Introduction to Applied Machine Learning,1,1.0
-13,6,2,Introduction to Applied Machine Learning,1,1.0
-1,7,2,Introduction to Applied Machine Learning,1,1.0
-13,7,2,Introduction to Applied Machine Learning,1,1.0
-1,8,2,Introduction to Applied Machine Learning,1,1.0
-13,8,2,Introduction to Applied Machine Learning,1,1.0
-1,9,2,Introduction to Applied Machine Learning,1,1.0
-13,9,2,Introduction to Applied Machine Learning,1,1.0
-1,10,2,Introduction to Applied Machine Learning,1,1.0
-13,10,2,Introduction to Applied Machine Learning,1,1.0
-1,11,2,Introduction to Applied Machine Learning,1,1.0
-13,11,2,Introduction to Applied Machine Learning,1,1.0
-1,12,2,Introduction to Applied Machine Learning,1,1.0
-13,12,2,Introduction to Applied Machine Learning,1,1.0
-1,13,2,Introduction to Applied Machine Learning,1,1.0
-13,13,2,Introduction to Applied Machine Learning,1,1.0
-2,1,1,Applied Data Science,1,1.0
-7,1,1,Applied Data Science,1,1.0
-2,2,1,Applied Data Science,1,1.0
-7,2,1,Applied Data Science,1,1.0
-2,3,1,Applied Data Science,1,1.0
-7,3,1,Applied Data Science,1,1.0
-2,4,1,Applied Data Science,1,0.0
-7,4,1,Applied Data Science,1,1.0
-2,5,1,Applied Data Science,1,0.0
-7,5,1,Applied Data Science,1,1.0
-2,6,1,Applied Data Science,1,1.0
-7,6,1,Applied Data Science,1,1.0
-2,7,1,Applied Data Science,1,1.0
-7,7,1,Applied Data Science,1,1.0
-2,8,1,Applied Data Science,1,1.0
-7,8,1,Applied Data Science,1,1.0
-2,9,1,Applied Data Science,1,1.0
-7,9,1,Applied Data Science,1,1.0
-2,10,1,Applied Data Science,1,0.0
-7,10,1,Applied Data Science,1,1.0
-2,11,1,Applied Data Science,1,1.0
-7,11,1,Applied Data Science,1,1.0
-2,12,1,Applied Data Science,1,0.0
-7,12,1,Applied Data Science,1,1.0
-2,13,1,Applied Data Science,1,1.0
-7,13,1,Applied Data Science,1,1.0
-2,1,1,Applied Data Science,1,1.0
-7,1,1,Applied Data Science,1,1.0
-2,2,1,Applied Data Science,1,1.0
-7,2,1,Applied Data Science,1,1.0
-2,3,1,Applied Data Science,1,0.0
-7,3,1,Applied Data Science,1,1.0
-2,4,1,Applied Data Science,1,1.0
-7,4,1,Applied Data Science,1,1.0
-2,5,1,Applied Data Science,1,1.0
-7,5,1,Applied Data Science,1,1.0
-2,6,1,Applied Data Science,1,1.0
-7,6,1,Applied Data Science,1,1.0
-2,7,1,Applied Data Science,1,1.0
-7,7,1,Applied Data Science,1,1.0
-2,8,1,Applied Data Science,1,0.0
-7,8,1,Applied Data Science,1,1.0
-2,9,1,Applied Data Science,1,1.0
-7,9,1,Applied Data Science,1,0.0
-2,10,1,Applied Data Science,1,1.0
-7,10,1,Applied Data Science,1,1.0
-2,11,1,Applied Data Science,1,0.0
-7,11,1,Applied Data Science,1,1.0
-2,12,1,Applied Data Science,1,1.0
-7,12,1,Applied Data Science,1,1.0
-2,13,1,Applied Data Science,1,1.0
-7,13,1,Applied Data Science,1,1.0
-10,1,2,Natural Language Processing,1,1.0
-10,2,2,Natural Language Processing,1,1.0
-10,3,2,Natural Language Processing,1,1.0
-10,4,2,Natural Language Processing,1,1.0
-10,5,2,Natural Language Processing,1,1.0
-10,6,2,Natural Language Processing,1,1.0
-10,7,2,Natural Language Processing,1,1.0
-10,8,2,Natural Language Processing,1,1.0
-10,9,2,Natural Language Processing,1,1.0
-10,10,2,Natural Language Processing,1,1.0
-10,11,2,Natural Language Processing,1,1.0
-10,12,2,Natural Language Processing,1,1.0
-10,13,2,Natural Language Processing,1,1.0
-10,1,2,Natural Language Processing,1,1.0
-10,2,2,Natural Language Processing,1,1.0
-10,3,2,Natural Language Processing,1,1.0
-10,4,2,Natural Language Processing,1,1.0
-10,5,2,Natural Language Processing,1,1.0
-10,6,2,Natural Language Processing,1,1.0
-10,7,2,Natural Language Processing,1,1.0
-10,8,2,Natural Language Processing,1,1.0
-10,9,2,Natural Language Processing,1,1.0
-10,10,2,Natural Language Processing,1,1.0
-10,11,2,Natural Language Processing,1,1.0
-10,12,2,Natural Language Processing,1,1.0
-10,13,2,Natural Language Processing,1,1.0
-13,1,2,Python Programming,1,1.0
-13,2,2,Python Programming,1,1.0
-13,3,2,Python Programming,1,1.0
-13,4,2,Python Programming,1,1.0
-13,5,2,Python Programming,1,0.0
-13,6,2,Python Programming,1,1.0
-13,7,2,Python Programming,1,1.0
-13,8,2,Python Programming,1,0.0
-13,9,2,Python Programming,1,1.0
-13,10,2,Python Programming,1,1.0
-13,11,2,Python Programming,1,1.0
-13,12,2,Python Programming,1,1.0
-13,13,2,Python Programming,1,0.0
-13,1,2,Python Programming,1,1.0
-13,2,2,Python Programming,1,1.0
-13,3,2,Python Programming,1,0.0
-13,4,2,Python Programming,1,1.0
-13,5,2,Python Programming,1,1.0
-13,6,2,Python Programming,1,1.0
-13,7,2,Python Programming,1,0.0
-13,8,2,Python Programming,1,1.0
-13,9,2,Python Programming,1,0.0
-13,10,2,Python Programming,1,1.0
-13,11,2,Python Programming,1,1.0
-13,12,2,Python Programming,1,0.0
-13,13,2,Python Programming,1,1.0
+SEMESTER_ID,COURSE_NAME,WEEK_ID,ATTENDANCE_PCT
+1,Applied Data Science,1,100.0
+1,Applied Data Science,2,100.0
+1,Applied Data Science,3,75.0
+1,Applied Data Science,4,75.0
+1,Applied Data Science,5,75.0
+1,Applied Data Science,6,100.0
+1,Applied Data Science,7,100.0
+1,Applied Data Science,8,75.0
+1,Applied Data Science,9,75.0
+1,Applied Data Science,10,75.0
+1,Applied Data Science,11,75.0
+1,Applied Data Science,12,75.0
+1,Applied Data Science,13,100.0
+1,Data Mining,1,100.0
+1,Data Mining,2,100.0
+1,Data Mining,3,100.0
+1,Data Mining,4,100.0
+1,Data Mining,5,100.0
+1,Data Mining,6,100.0
+1,Data Mining,7,100.0
+1,Data Mining,8,100.0
+1,Data Mining,9,100.0
+1,Data Mining,10,100.0
+1,Data Mining,11,100.0
+1,Data Mining,12,100.0
+1,Data Mining,13,100.0
+1,Introduction to Applied Machine Learning,1,83.33333333333334
+1,Introduction to Applied Machine Learning,2,100.0
+1,Introduction to Applied Machine Learning,3,100.0
+1,Introduction to Applied Machine Learning,4,50.0
+1,Introduction to Applied Machine Learning,5,100.0
+1,Introduction to Applied Machine Learning,6,83.33333333333334
+1,Introduction to Applied Machine Learning,7,66.66666666666666
+1,Introduction to Applied Machine Learning,8,100.0
+1,Introduction to Applied Machine Learning,9,100.0
+1,Introduction to Applied Machine Learning,10,83.33333333333334
+1,Introduction to Applied Machine Learning,11,66.66666666666666
+1,Introduction to Applied Machine Learning,12,83.33333333333334
+1,Introduction to Applied Machine Learning,13,83.33333333333334
+1,Statistic,1,100.0
+1,Statistic,2,100.0
+1,Statistic,3,50.0
+1,Statistic,4,50.0
+1,Statistic,5,50.0
+1,Statistic,6,100.0
+1,Statistic,7,50.0
+1,Statistic,8,100.0
+1,Statistic,9,50.0
+1,Statistic,10,100.0
+1,Statistic,11,50.0
+1,Statistic,12,50.0
+1,Statistic,13,100.0
+2,Data Mining,1,75.0
+2,Data Mining,2,100.0
+2,Data Mining,3,100.0
+2,Data Mining,4,100.0
+2,Data Mining,5,100.0
+2,Data Mining,6,75.0
+2,Data Mining,7,100.0
+2,Data Mining,8,100.0
+2,Data Mining,9,100.0
+2,Data Mining,10,100.0
+2,Data Mining,11,100.0
+2,Data Mining,12,100.0
+2,Data Mining,13,100.0
+2,Introduction to Applied Machine Learning,1,100.0
+2,Introduction to Applied Machine Learning,2,100.0
+2,Introduction to Applied Machine Learning,3,100.0
+2,Introduction to Applied Machine Learning,4,100.0
+2,Introduction to Applied Machine Learning,5,100.0
+2,Introduction to Applied Machine Learning,6,100.0
+2,Introduction to Applied Machine Learning,7,100.0
+2,Introduction to Applied Machine Learning,8,100.0
+2,Introduction to Applied Machine Learning,9,100.0
+2,Introduction to Applied Machine Learning,10,100.0
+2,Introduction to Applied Machine Learning,11,100.0
+2,Introduction to Applied Machine Learning,12,100.0
+2,Introduction to Applied Machine Learning,13,100.0
+2,Natural Language Processing,1,100.0
+2,Natural Language Processing,2,100.0
+2,Natural Language Processing,3,100.0
+2,Natural Language Processing,4,100.0
+2,Natural Language Processing,5,100.0
+2,Natural Language Processing,6,100.0
+2,Natural Language Processing,7,100.0
+2,Natural Language Processing,8,100.0
+2,Natural Language Processing,9,100.0
+2,Natural Language Processing,10,100.0
+2,Natural Language Processing,11,100.0
+2,Natural Language Processing,12,100.0
+2,Natural Language Processing,13,100.0
+2,Python Programming,1,100.0
+2,Python Programming,2,100.0
+2,Python Programming,3,50.0
+2,Python Programming,4,100.0
+2,Python Programming,5,50.0
+2,Python Programming,6,100.0
+2,Python Programming,7,50.0
+2,Python Programming,8,50.0
+2,Python Programming,9,50.0
+2,Python Programming,10,100.0
+2,Python Programming,11,100.0
+2,Python Programming,12,50.0
+2,Python Programming,13,50.0
