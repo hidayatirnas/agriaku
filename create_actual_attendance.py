@@ -7,7 +7,7 @@ df_attendance.set_index("ID", inplace=True)
 df_attendance["ATTEND_DT"] = df_attendance["ATTEND_DT"].apply(lambda x: datetime.strptime(x, "%d-%b-%y").strftime("%Y-%m-%d"))
 
 df_schedule = pd.read_csv("data staging/schedule.csv")
-df_schedule = df_schedule[["ID", "COURSE_ID"]]
+df_schedule = df_schedule[["ID", "COURSE_ID"]].drop_duplicates()
 
 df_wos = pd.read_csv("data destination/dim_week_of_semester.csv")
 df_wos = df_wos[["id", "date"]]
